@@ -6,6 +6,8 @@ This project performs detailed analysis on steering-related repair issues using 
 
 - `steering_analysis.py` – main Python script-(https://colab.research.google.com/drive/1LUWdQGlKcTODXHa6fFqoXR8vBP7LW0fn)
 -   (https://github.com/Junaid30121997/Steering-Wheel-Repair-Analysis/blob/main/Python_Code.ipynb)
+
+-   (https://colab.research.google.com/drive/1F8wqSfnAh1kHq-BUsdtEaQr1KkJtsVx3#scrollTo=cFC1mWv_phWY)
 ##  Tools Used
 
 - Python:Pandas, NumPy, Seaborn, Matplotlib
