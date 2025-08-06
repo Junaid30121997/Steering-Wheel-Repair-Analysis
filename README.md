@@ -4,14 +4,7 @@ This project performs detailed analysis on steering-related repair issues using 
 
 ##  Files
 
-- `steering_analysis.py` – main Python script
-- `cleaned_tagged_steering_data.csv` – cleaned dataset with failure/repair tags
-- `platform_issues.png` – top 5 platforms with most issues
-- `repair_cost_dist.png` – histogram of repair costs
-- `age_vs_cost.png` – scatter plot: repair age vs cost
-- `column_analysis.txt` – column-wise data summary
-- `analysis_summary.txt` – executive summary
-
+- `steering_analysis.py` – main Python script- (https://github.com/Junaid30121997/Steering-Wheel-Repair-Analysis/blob/main/Python_Code.ipynb)
 ##  Tools Used
 
 - Python:Pandas, NumPy, Seaborn, Matplotlib
