@@ -32,7 +32,7 @@ Steering wheel repairs are common across automotive platforms, but certain mater
 
 ## How to Run
 1. Upload your Excel dataset.  
-2. Open `Python_Code.ipynb` in Google Colab or Jupyter Notebook.  
+2. Open [`Python_Code.ipynb`](https://colab.research.google.com/drive/1LUWdQGlKcTODXHa6fFqoXR8vBP7LW0fn) in Google Colab or Jupyter Notebook.  
 3. Run the cells sequentially to perform cleaning, tagging, and visualization.  
 4. Export outputs as CSV or plots for reporting.
 
