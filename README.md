@@ -42,8 +42,9 @@ Steering wheel repairs are common across automotive platforms, but certain mater
 ### Top 5 Vehicles OR Repair Cost Distribution
 ![Top 5 Vehicles OR Repair Cost Distribution](https://github.com/Junaid30121997/Steering-Wheel-Repair-Analysis/blob/main/Screenshot%202025-08-31%20124903.png)
 
-### KPI Dashboard
-![KPI Dashboard](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Screenshot%202025-08-16%20150441.png?raw=true)
+
+### Repair Cost Distribution OR Repair Age VS Total Cost
+![Repair Cost Distribution OR Repair Age VS Total Cost](https://github.com/Junaid30121997/Steering-Wheel-Repair-Analysis/blob/main/Screenshot%202025-08-31%20124958.png))
 
 
 *Visual representation of repair cost trends and material failure frequency.*
@@ -64,25 +65,5 @@ This project demonstrates the ability to:
 - **Email:** mohammedjunaid689@gmail.com
 
 
-##  Files
-
-- `steering_analysis.py` – main Python script-(https://colab.research.google.com/drive/1LUWdQGlKcTODXHa6fFqoXR8vBP7LW0fn)
--   (https://github.com/Junaid30121997/Steering-Wheel-Repair-Analysis/blob/main/Python_Code.ipynb)
-
--   (https://colab.research.google.com/drive/1F8wqSfnAh1kHq-BUsdtEaQr1KkJtsVx3#scrollTo=cFC1mWv_phWY)
-##  Tools Used
-
-- Python:Pandas, NumPy, Seaborn, Matplotlib
-- Google Colab: for analysis and visualization
-
-##  Key Insights
-
-- Material failures (e.g., stitching, peeling) are frequent
-- High repair costs observed in BEV and luxury platforms
-- Average repair cost: ₹{replace_with_actual_mean}
-
-##  How to Run
-
-Upload the Excel data, run the script in Google Colab or locally using Jupyter Notebook, and export outputs.
 
 
