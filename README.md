@@ -12,7 +12,7 @@ Steering wheel repairs are common across automotive platforms, but certain mater
 ## Files
 - **[Python_Code.ipynb](https://github.com/Junaid30121997/Steering-Wheel-Repair-Analysis/blob/main/Python_Code.ipynb)** → Main analysis notebook with step-by-step processing.  
 - **[steering_analysis.py](https://github.com/Junaid30121997/Steering-Wheel-Repair-Analysis/blob/main/steering_analysis.py)** → Reusable Python functions for cleaning and visualization.  
-- **Untitled17.ipynb** → Experimental/scratch work.  
+- [**Untitled17.ipynb**](https://colab.research.google.com/drive/1F8wqSfnAh1kHq-BUsdtEaQr1KkJtsVx3#scrollTo=cFC1mWv_phWY) → Experimental/scratch work.  
 
 ---
 
